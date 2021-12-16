@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simon Dice</string>
+    <string name="ronda">Ronda</string>
+    <string name="botonJugar">Jugar</string>
+    <string name="botonVerde">Verde</string>
+    <string name="botonAmarillo">Amarillo</string>
+    <string name="botonAzul">Azul</string>
+    <string name="botonRojo">Rojo</string>
+
+</resources>
